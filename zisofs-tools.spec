@@ -1,4 +1,4 @@
-Summary:	Utilities to create compressed CD-ROM filesystems.
+Summary:	Utilities to create compressed CD-ROM filesystems
 Name:		zisofs-tools
 Version:	1.0.8
 Release:	%mkrel 1
