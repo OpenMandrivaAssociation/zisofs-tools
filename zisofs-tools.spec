@@ -8,6 +8,7 @@ URL:		http://www.kernel.org/pub/linux/utils/fs/zisofs/
 Source0:	http://www.kernel.org/pub/linux/utils/fs/zisofs/%{name}-%{version}.tar.bz2
 Source1:	http://www.kernel.org/pub/linux/utils/fs/zisofs/%{name}-%{version}.tar.bz2.sign
 BuildRequires:	zlib-devel
+BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 Tools that, in combination with an appropriately patched version of
