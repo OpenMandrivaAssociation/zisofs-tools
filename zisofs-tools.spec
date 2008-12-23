@@ -1,7 +1,7 @@
 Summary:	Utilities to create compressed CD-ROM filesystems
 Name:		zisofs-tools
 Version:	1.0.8
-Release:	%mkrel 2
+Release:	%mkrel 3
 License:	GPL
 Group:		Archiving/Cd burning
 URL:		http://www.kernel.org/pub/linux/utils/fs/zisofs/
