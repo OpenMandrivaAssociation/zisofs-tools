@@ -22,11 +22,11 @@ mkisofs, allow the creation of compressed CD-ROM filesystems.
 %make
 
 %install
-rm -rf $RPM_BUILD_ROOT
-make install INSTALLROOT="$RPM_BUILD_ROOT"
+rm -rf %{buildroot}
+make install INSTALLROOT="%{buildroot}"
 
 %clean
-rm -rf $RPM_BUILD_ROOT
+rm -rf %{buildroot}
 
 %files
 %defattr(-,root,root)
