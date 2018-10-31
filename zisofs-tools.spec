@@ -1,7 +1,7 @@
 Summary:	Utilities to create compressed CD-ROM filesystems
 Name:		zisofs-tools
 Version:	1.0.8
-Release:	16
+Release:	17
 License:	GPL
 Group:		Archiving/Cd burning
 URL:		http://www.kernel.org/pub/linux/utils/fs/zisofs/
@@ -77,10 +77,10 @@ rm -rf $RPM_BUILD_ROOT
 * Sat Dec 31 2005 Mandriva Linux Team <http://www.mandrivaexpert.com/> 1.0.6-2mdk
 - Rebuild
 
-* Wed Nov 10 2004 Per Øyvind Karlsen <peroyvind@linux-mandrake.com> 1.0.6-1mdk
+* Wed Nov 10 2004 Per Ã˜yvind Karlsen <peroyvind@linux-mandrake.com> 1.0.6-1mdk
 - 1.0.6
 
-* Wed Jun 30 2004 Per �yvind Karlsen <peroyvind@linux-mandrake.com> 1.0.5-1mdk
+* Wed Jun 30 2004 Per Øyvind Karlsen <peroyvind@linux-mandrake.com> 1.0.5-1mdk
 - 1.0.5
 - cosmetics
 
