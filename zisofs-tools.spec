@@ -4,7 +4,7 @@ Version:	1.0.8
 Release:	18
 License:	GPL
 Group:		Archiving/Cd burning
-URL:		http://www.kernel.org/pub/linux/utils/fs/zisofs/
+URL:		https://www.kernel.org/pub/linux/utils/fs/zisofs/
 Source0:	http://www.kernel.org/pub/linux/utils/fs/zisofs/%{name}-%{version}.tar.bz2
 Source1:	http://www.kernel.org/pub/linux/utils/fs/zisofs/%{name}-%{version}.tar.bz2.sign
 BuildRequires:	zlib-devel
